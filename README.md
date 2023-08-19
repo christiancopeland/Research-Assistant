@@ -13,3 +13,5 @@ Connecting AI to Arxiv to generate literature reviews in bulk
 * Once you've downloaded some papers you're interested in, copy them into the pdfs/ directory
 * Run gen_literature_review.py and relax while you get a tailored report on every paper
 
+  Note: You can explain how you want the literature review to be made in prompt_summary.txt
+
